@@ -72,4 +72,6 @@ Una vez que la instalación de Windows esté completa, tu sistema estará config
 
 Usar un archivo de respuesta `autounattend.xml` para personalizar la instalación de Windows puede ser extremadamente útil, especialmente en entornos donde se requieren configuraciones específicas en múltiples dispositivos. Siguiendo estos pasos, puedes crear un instalador USB de Windows modificado que aplica automáticamente todas tus configuraciones preferidas durante la instalación.
 
+Para más detalles sobre archivos de respuesta y cómo personalizarlos, consulta la [visión general de archivos de respuesta en la documentación de Microsoft](https://learn.microsoft.com/es-es/windows-hardware/customize/desktop/wsim/answer-files-overview).
+
 Para más archivos `autounattend.xml` preconfigurados o ejemplos de cómo personalizar uno, visita [este repositorio de GitHub](https://github.com/memstechtips/UnattendedWinstall/tree/main).
